@@ -2,13 +2,11 @@
 layout: about
 ---
 
-Hello, my name is Micah Cowell. I am a self proclaimed web developer who likes the internet, hip hop, and fancy yo-yos.
+Hello, this is my about me section. It is written in markdown, so the formatting is more simple than html.
 
 # What do you do?
-I make website and stuff. All the code I write is on my [Github](https://github.com/getmicah).
+This page might be a nice way to introduce yourself and your interests, or other non-cv related stuff you may want to share...
 
 # Who are your favorite artists?
-Currently I'm listening to a lot of James Blake and Kaytranada.
 
 # What programming languages do you use?
-When making websites I like using Javascript and Sass but I also like Python and bash for making linux scripts.
